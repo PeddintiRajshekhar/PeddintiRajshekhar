@@ -8,7 +8,7 @@
  
 - 🌱 I have worked as an SDE intern at a **GERIns startup**
 
-- 👀 Learning **new stuff**
+- 👀 Learning **working on new stuff**
 
 - 🤖 Developing **Websites**
 
