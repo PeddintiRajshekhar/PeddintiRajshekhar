@@ -10,7 +10,7 @@
 
 - 👀 Learning **new stuff**
 
-- 🤖 Developing **Websites**
+- 🤖 Developing **New Websites**
 
 - 🤞 Improving my **Problem Solving Skills (DSA)**
 
